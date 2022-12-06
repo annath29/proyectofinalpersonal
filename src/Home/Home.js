@@ -62,14 +62,23 @@ export function Home(){
         <section>
             <div class="container-fluid">
                 <div class="row">
+                    <div class="col-12">
+                        <h1>NOTICIAS</h1>
+                        <hr/>
+                    </div>
+                </div>
+                <div class="row">
                     <div class="col-12 col-md-4">
                         <img src="https://firebasestorage.googleapis.com/v0/b/spotifyang-a7d3b.appspot.com/o/tour.jpg?alt=media&token=8223b9f5-6234-4bf6-a7c5-d5b170467fa8" alt="" class="img-fluid w-100 h-50"/>
+                        <p class="mt-2">Concretamente, la primera de sus dos fechas será el sábado 8 de julio de 2023 durante la celebración del festival Bilbao BBK Live y la segunda con un único concierto en el WiZink de Madrid el lunes 10 de julio de 2023. Será la primera vez en 10 años que la banda actúe en un pabellón de la capital de nuestro país. Las entradas para Madrid saldrán a la venta el miércoles 7 de diciembre a las 12h y se podrán adquirir a través de lasttour.org y seetickets.com/es</p>
                     </div>
                     <div class="col-12 col-md-4">
                         <img src="https://firebasestorage.googleapis.com/v0/b/spotifyang-a7d3b.appspot.com/o/conciertbog.png?alt=media&token=c1ecc1cd-655f-43e3-8e1d-9f8d1210099b" alt="" class="img-fluid w-100 h-50"/>
+                        <p class="mt-2">Se espera que en el espectáculo Arctic Monkeys toque sus sencillos, además de éxitos más famosos como “I Wanna Be Your”, “505″, “Knee Socks”, “R U Mine”, entre muchos más. El concierto se llevará a cabo el próximo jueves 17 de noviembre en Coliseo Live y será su tercera participación en el país, desde su primer concierto en el 2014.</p>
                     </div>
                     <div class="col-12 col-md-4">
                         <img src="https://firebasestorage.googleapis.com/v0/b/spotifyang-a7d3b.appspot.com/o/arctic-nuevo-album.jpg?alt=media&token=ad5c4773-3a93-481a-bf9a-803ac4351577" alt="" class="img-fluid w-100 h-50"/>
+                        <p class="mt-2">El sexto álbum de la banda británica se estrenó este viernes 21 de octubre y ya se encuentra disponible en todas las plataformas de streaming de música.'The Car' cuenta con 10 temas musicales con un total de 37 minutos de reproducción, en donde destacan canciones como 'There'd Better Be A Mirrorball', 'I Ain't Quite Where I Think I Am' y 'Body Paint'. Han pasado casi 20 años desde que Arctic Monkeys lanzó sus primeros sencillos en el 2004 con su primer álbum 'Beneath The Boardwalk', disco que incluye canciones como 'A Certain Romance' o 'Cigarette Smoke', y desde ese entonces, la banda ha puesto en alto el género de Rock Alternativo en diversas partes del mundo.</p>
                     </div>
                 </div>
             </div>

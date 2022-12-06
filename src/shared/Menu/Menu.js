@@ -24,7 +24,10 @@ export function Menu (){
               <Link class="nav-link active" to="integrantes">Integrantes</Link>
             </li>
             <li class="nav-item">
-              <Link class="nav-link active" to="Musica">Musica</Link>
+              <Link class="nav-link active" to="musica">Musica</Link>
+            </li>
+            <li class="nav-item">
+              <Link class="nav-link active" to="mercancias">Mercancia</Link>
             </li>
           </ul>
           <form class="d-flex" role="search">
